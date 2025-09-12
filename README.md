@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 - 👨🏻‍💻 I’m currently study as Informatics Student at Jenderal Soedirman University.
 - 📝 Exploring technology.
 - 🌍 Based in Central Java, Indonesia.
-<details> 
-  <summary>My Statistics</summary>
 
 
 <p align = "center">
@@ -42,8 +40,3 @@ Here are some ideas to get you started:
 </p> 
 
 
-
-
-
-
-</details>
