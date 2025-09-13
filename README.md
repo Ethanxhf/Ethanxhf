@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supremevandals77@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadmuhyidin)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-muhyidin)
 [![](https://img.shields.io/badge/Discord-00215E?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/482809746768920577)
 
 
